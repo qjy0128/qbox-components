@@ -1,0 +1,4 @@
+99b55aeea3c3c651ade7e123a38a1278e21b1463ed4f4fc9bc1c6c87e26e2cf2  qbox-enhanced-1-arm64-v8a.zip
+ff194f73b20e7032e9499c0b0de96fc1b96212a0e010d9b2b79587bc012dc2f1  qbox-enhanced-1-armeabi-v7a.zip
+d2db4c228b25cbdb090d7693d7b01cfe02585b9ccefbcc4abfe4c36c3588fc0d  qbox-x5-1-arm64-v8a.zip
+0690e244fe67ee99c34bef4b2f2a1cdc1d00b944b0f8930164b6fe7346bdc1fd  qbox-x5-1-armeabi-v7a.zip
